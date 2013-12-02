@@ -1,0 +1,31 @@
+% 1. Title: Final Fantasy XIV - A Realm Reborn | Races/Stats
+%
+% 2. Sources:
+%	(a) Creator: Chong-U Lim (culim@mit.edu)
+%	(b) Research Group: Imagination, Computation, and Expression Lab (http://icelab.mit.edu)
+%	(c) Institution: Massachusetts Institute of Technology (http://mit.edu)
+%	(d) FF XIV Guild (http://www.ffxivguild.com/racial-stats-and-god-stats-guide/)
+%	(e) Date: 2013-11-26 21:50:53.505142
+%
+@RELATION ffxiv_races
+
+@ATTRIBUTE Race {MiQote, Roegadyn, Hyur, Elezen, Lalafell}
+@ATTRIBUTE Subrace {Hellsguard, Wildwood, Midlander, Duskwight, Highlander, Sea-Wolves, Keepers-of-the-Moon, Dunesfolk, Plainsfolk, Seekers-of-the-Sun}
+@ATTRIBUTE STR NUMERIC
+@ATTRIBUTE DEX NUMERIC
+@ATTRIBUTE VIT NUMERIC
+@ATTRIBUTE INT NUMERIC
+@ATTRIBUTE MND NUMERIC
+@ATTRIBUTE PIE NUMERIC
+
+@DATA
+Roegadyn,Sea-Wolves,22,18,23,17,21,19
+Roegadyn,Hellsguard,20,17,21,20,22,20
+Hyur,Highlander,23,20,22,18,20,17
+Hyur,Midlander,21,19,20,21,18,21
+Elezen,Wildwood,19,23,18,22,17,21
+Elezen,Duskwight,20,20,19,23,20,18
+MiQote,Seekers-of-the-Sun,21,22,20,18,19,20
+MiQote,Keepers-of-the-Moon,18,21,17,19,23,22
+Lalafell,Plainsfolk,18,22,18,21,20,21
+Lalafell,Dunesfolk,17,20,17,21,22,23
