@@ -1,0 +1,9 @@
+Character,Class,Strength,Dexterity,Intelligence,HitPoints,MagicPoints,Level,ExperiencePoints,Weapon,Armor,Gender
+Iolo,Bard,16,19,13,300,7,3,240,Sling,Cloth,Male
+Shamino,Ranger,16,15,15,200,8,2,150,Sword,Leather,Male
+Dupre,Paladin,17,14,17,300,5,3,325,Sword,Chain,Male
+Jaana,Druid,17,16,13,200,4,2,175,Dagger,Cloth,Female
+Julia,Tinker,15,16,12,200,4,2,110,Mace,Leather,Female
+Mariah,Mage,8,12,20,200,21,2,125,Staff,Cloth,Female
+Katrina,Shephard,11,12,10,100,0,1,5,Staff,Cloth,Female
+Geoffrey,Fighter,20,15,11,300,0,3,205,Axe,Leatherq,Male
