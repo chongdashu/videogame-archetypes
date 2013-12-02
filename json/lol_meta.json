@@ -1,0 +1,1162 @@
+{
+    "Aatrox": {
+        "BanRate": "7.07",
+        "Champion": "Aatrox",
+        "IPCost": "6300",
+        "Meta": "TopLane",
+        "Popularity": "6.69",
+        "RPCost": "975",
+        "Released": "6/13/2013",
+        "WinRate": "48.33"
+    },
+    "Ahri": {
+        "BanRate": "15.61",
+        "Champion": "Ahri",
+        "IPCost": "6300",
+        "Meta": "MiddleLane",
+        "Popularity": "11.82",
+        "RPCost": "975",
+        "Released": "12/14/2011",
+        "WinRate": "48.54"
+    },
+    "Akali": {
+        "BanRate": "0.42",
+        "Champion": "Akali",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "7.62",
+        "RPCost": "790",
+        "Released": "5/11/2010",
+        "WinRate": "50.67"
+    },
+    "Alistar": {
+        "BanRate": "0.07",
+        "Champion": "Alistar",
+        "IPCost": "1350",
+        "Meta": "Support",
+        "Popularity": "5",
+        "RPCost": "585",
+        "Released": "2/21/2009",
+        "WinRate": "44.47"
+    },
+    "Amumu": {
+        "BanRate": "0.58",
+        "Champion": "Amumu",
+        "IPCost": "1350",
+        "Meta": "Jungler",
+        "Popularity": "9.55",
+        "RPCost": "585",
+        "Released": "6/26/2009",
+        "WinRate": "55.34"
+    },
+    "Anivia": {
+        "BanRate": "0.11",
+        "Champion": "Anivia",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "1.66",
+        "RPCost": "790",
+        "Released": "7/10/2009",
+        "WinRate": "47.25"
+    },
+    "Annie": {
+        "BanRate": "18.22",
+        "Champion": "Annie",
+        "IPCost": "450",
+        "Meta": "MiddleLane",
+        "Popularity": "21.86",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "49.45"
+    },
+    "Ashe": {
+        "BanRate": "0.06",
+        "Champion": "Ashe",
+        "IPCost": "450",
+        "Meta": "ADCarry",
+        "Popularity": "10.86",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "50.29"
+    },
+    "Blitzcrank": {
+        "BanRate": "5.68",
+        "Champion": "Blitzcrank",
+        "IPCost": "3150",
+        "Meta": "Support",
+        "Popularity": "12.27",
+        "RPCost": "790",
+        "Released": "9/2/2009",
+        "WinRate": "49.34"
+    },
+    "Brand": {
+        "BanRate": "0.22",
+        "Champion": "Brand",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "6.53",
+        "RPCost": "880",
+        "Released": "4/12/2011",
+        "WinRate": "52.79"
+    },
+    "Caitlyn": {
+        "BanRate": "1.77",
+        "Champion": "Caitlyn",
+        "IPCost": "4800",
+        "Meta": "ADCarry",
+        "Popularity": "33.82",
+        "RPCost": "880",
+        "Released": "1/4/2011",
+        "WinRate": "49.57"
+    },
+    "Cassiopeia": {
+        "BanRate": "0.17",
+        "Champion": "Cassiopeia",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "2.22",
+        "RPCost": "440",
+        "Released": "12/14/2010",
+        "WinRate": "50.04"
+    },
+    "Cho'Gath": {
+        "BanRate": "0.07",
+        "Champion": "Cho'Gath",
+        "IPCost": "1350",
+        "Meta": "TopLane",
+        "Popularity": "4.95",
+        "RPCost": "585",
+        "Released": "6/26/2009",
+        "WinRate": "47.62"
+    },
+    "Corki": {
+        "BanRate": "0.08",
+        "Champion": "Corki",
+        "IPCost": "3150",
+        "Meta": "ADCarry",
+        "Popularity": "4.38",
+        "RPCost": "790",
+        "Released": "9/19/2009",
+        "WinRate": "49.39"
+    },
+    "Darius": {
+        "BanRate": "0.16",
+        "Champion": "Darius",
+        "IPCost": "6300",
+        "Meta": "TopLane",
+        "Popularity": "6.88",
+        "RPCost": "975",
+        "Released": "5/23/2012",
+        "WinRate": "48.62"
+    },
+    "Diana": {
+        "BanRate": "0.05",
+        "Champion": "Diana",
+        "IPCost": "6300",
+        "Meta": "MiddleLane",
+        "Popularity": "5.82",
+        "RPCost": "975",
+        "Released": "8/7/2012",
+        "WinRate": "48.51"
+    },
+    "Dr.Mundo": {
+        "BanRate": "2.01",
+        "Champion": "Dr.Mundo",
+        "IPCost": "1350",
+        "Meta": "Jungler",
+        "Popularity": "4.07",
+        "RPCost": "585",
+        "Released": "9/2/2009",
+        "WinRate": "50.13"
+    },
+    "Draven": {
+        "BanRate": "0.76",
+        "Champion": "Draven",
+        "IPCost": "6300",
+        "Meta": "ADCarry",
+        "Popularity": "10.64",
+        "RPCost": "975",
+        "Released": "6/6/2012",
+        "WinRate": "53.01"
+    },
+    "Elise": {
+        "BanRate": "31.86",
+        "Champion": "Elise",
+        "IPCost": "6300",
+        "Meta": "TopLane",
+        "Popularity": "10.66",
+        "RPCost": "975",
+        "Released": "10/26/2012",
+        "WinRate": "47.34"
+    },
+    "Evelynn": {
+        "BanRate": "37.38",
+        "Champion": "Evelynn",
+        "IPCost": "1350",
+        "Meta": "MiddleLane",
+        "Popularity": "9.51",
+        "RPCost": "585",
+        "Released": "5/1/2009",
+        "WinRate": "49.84"
+    },
+    "Ezreal": {
+        "BanRate": "0.36",
+        "Champion": "Ezreal",
+        "IPCost": "4800",
+        "Meta": "ADCarry",
+        "Popularity": "23.67",
+        "RPCost": "880",
+        "Released": "3/16/2010",
+        "WinRate": "47.71"
+    },
+    "Fiddlesticks": {
+        "BanRate": "16.85",
+        "Champion": "Fiddlesticks",
+        "IPCost": "1350",
+        "Meta": "Jungler",
+        "Popularity": "14.56",
+        "RPCost": "585",
+        "Released": "2/21/2009",
+        "WinRate": "53.26"
+    },
+    "Fiora": {
+        "BanRate": "0.44",
+        "Champion": "Fiora",
+        "IPCost": "6300",
+        "Meta": "TopLane",
+        "Popularity": "4.89",
+        "RPCost": "975",
+        "Released": "2/29/2012",
+        "WinRate": "51.86"
+    },
+    "Fizz": {
+        "BanRate": "29.89",
+        "Champion": "Fizz",
+        "IPCost": "6300",
+        "Meta": "MiddleLane",
+        "Popularity": "8.13",
+        "RPCost": "975",
+        "Released": "11/15/2011",
+        "WinRate": "49.75"
+    },
+    "Galio": {
+        "BanRate": "0.15",
+        "Champion": "Galio",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "1.12",
+        "RPCost": "880",
+        "Released": "8/10/2010",
+        "WinRate": "51.23"
+    },
+    "Gangplank": {
+        "BanRate": "0.08",
+        "Champion": "Gangplank",
+        "IPCost": "3150",
+        "Meta": "TopLane",
+        "Popularity": "3.88",
+        "RPCost": "790",
+        "Released": "8/19/2009",
+        "WinRate": "47.07"
+    },
+    "Garen": {
+        "BanRate": "0.09",
+        "Champion": "Garen",
+        "IPCost": "450",
+        "Meta": "TopLane",
+        "Popularity": "7.99",
+        "RPCost": "260",
+        "Released": "4/27/2010",
+        "WinRate": "45.13"
+    },
+    "Gragas": {
+        "BanRate": "3.66",
+        "Champion": "Gragas",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "9.07",
+        "RPCost": "790",
+        "Released": "2/2/2010",
+        "WinRate": "47.76"
+    },
+    "Graves": {
+        "BanRate": "0.06",
+        "Champion": "Graves",
+        "IPCost": "6300",
+        "Meta": "ADCarry",
+        "Popularity": "6.51",
+        "RPCost": "975",
+        "Released": "10/19/2011",
+        "WinRate": "49.17"
+    },
+    "Hecarim": {
+        "BanRate": "0.71",
+        "Champion": "Hecarim",
+        "IPCost": "6300",
+        "Meta": "Jungler",
+        "Popularity": "6.27",
+        "RPCost": "975",
+        "Released": "4/18/2012",
+        "WinRate": "50.71"
+    },
+    "Heimerdinger": {
+        "BanRate": "0.51",
+        "Champion": "Heimerdinger",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "3.78",
+        "RPCost": "790",
+        "Released": "10/10/2009",
+        "WinRate": "48.99"
+    },
+    "Irelia": {
+        "BanRate": "0.12",
+        "Champion": "Irelia",
+        "IPCost": "4800",
+        "Meta": "TopLane",
+        "Popularity": "3.29",
+        "RPCost": "880",
+        "Released": "11/16/2010",
+        "WinRate": "49.38"
+    },
+    "Janna": {
+        "BanRate": "0.22",
+        "Champion": "Janna",
+        "IPCost": "1350",
+        "Meta": "Support",
+        "Popularity": "8.8",
+        "RPCost": "585",
+        "Released": "9/2/2009",
+        "WinRate": "48.82"
+    },
+    "JarvanIV": {
+        "BanRate": "8.57",
+        "Champion": "JarvanIV",
+        "IPCost": "4800",
+        "Meta": "Jungler",
+        "Popularity": "14.7",
+        "RPCost": "880",
+        "Released": "3/1/2011",
+        "WinRate": "51.97"
+    },
+    "Jax": {
+        "BanRate": "4.09",
+        "Champion": "Jax",
+        "IPCost": "1350",
+        "Meta": "TopLane",
+        "Popularity": "19.01",
+        "RPCost": "585",
+        "Released": "2/21/2009",
+        "WinRate": "50.28"
+    },
+    "Jayce": {
+        "BanRate": "0.12",
+        "Champion": "Jayce",
+        "IPCost": "6300",
+        "Meta": "TopLane",
+        "Popularity": "4.16",
+        "RPCost": "975",
+        "Released": "7/7/2012",
+        "WinRate": "46.49"
+    },
+    "Jinx": {
+        "BanRate": "1.92",
+        "Champion": "Jinx",
+        "IPCost": "6300",
+        "Meta": "ADCarry",
+        "Popularity": "20.52",
+        "RPCost": "975",
+        "Released": "10/10/2013",
+        "WinRate": "51.72"
+    },
+    "Karma": {
+        "BanRate": "0.16",
+        "Champion": "Karma",
+        "IPCost": "3150",
+        "Meta": "Support",
+        "Popularity": "3.18",
+        "RPCost": "790",
+        "Released": "2/1/2011",
+        "WinRate": "46.08"
+    },
+    "Karthus": {
+        "BanRate": "0.18",
+        "Champion": "Karthus",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "1.79",
+        "RPCost": "790",
+        "Released": "6/12/2009",
+        "WinRate": "47.65"
+    },
+    "Kassadin": {
+        "BanRate": "85.03",
+        "Champion": "Kassadin",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "5.39",
+        "RPCost": "790",
+        "Released": "8/7/2009",
+        "WinRate": "51.6"
+    },
+    "Katarina": {
+        "BanRate": "0.43",
+        "Champion": "Katarina",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "9.86",
+        "RPCost": "790",
+        "Released": "9/19/2009",
+        "WinRate": "51.76"
+    },
+    "Kayle": {
+        "BanRate": "0.56",
+        "Champion": "Kayle",
+        "IPCost": "450",
+        "Meta": "MiddleLane",
+        "Popularity": "7.37",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "52.39"
+    },
+    "Kennen": {
+        "BanRate": "0.29",
+        "Champion": "Kennen",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "4.41",
+        "RPCost": "880",
+        "Released": "4/8/2010",
+        "WinRate": "49.09"
+    },
+    "Kha'Zix": {
+        "BanRate": "2.62",
+        "Champion": "Kha'Zix",
+        "IPCost": "6300",
+        "Meta": "TopLane",
+        "Popularity": "11.34",
+        "RPCost": "975",
+        "Released": "9/27/2012",
+        "WinRate": "48.73"
+    },
+    "Kog'Maw": {
+        "BanRate": "0.03",
+        "Champion": "Kog'Maw",
+        "IPCost": "4800",
+        "Meta": "ADCarry",
+        "Popularity": "1.33",
+        "RPCost": "880",
+        "Released": "6/24/2010",
+        "WinRate": "50.41"
+    },
+    "LeBlanc": {
+        "BanRate": "2.86",
+        "Champion": "LeBlanc",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "7.51",
+        "RPCost": "395",
+        "Released": "11/2/2010",
+        "WinRate": "45.73"
+    },
+    "LeeSin": {
+        "BanRate": "15.38",
+        "Champion": "LeeSin",
+        "IPCost": "4800",
+        "Meta": "Jungler",
+        "Popularity": "29.49",
+        "RPCost": "880",
+        "Released": "4/1/2011",
+        "WinRate": "47.19"
+    },
+    "Leona": {
+        "BanRate": "0.56",
+        "Champion": "Leona",
+        "IPCost": "4800",
+        "Meta": "Support",
+        "Popularity": "27.26",
+        "RPCost": "880",
+        "Released": "7/13/2011",
+        "WinRate": "53.44"
+    },
+    "Lissandra": {
+        "BanRate": "0.61",
+        "Champion": "Lissandra",
+        "IPCost": "6300",
+        "Meta": "MiddleLane",
+        "Popularity": "3.68",
+        "RPCost": "975",
+        "Released": "4/30/2013",
+        "WinRate": "45.97"
+    },
+    "Lucian": {
+        "BanRate": "9.4",
+        "Champion": "Lucian",
+        "IPCost": "6300",
+        "Meta": "ADCarry",
+        "Popularity": "15.2",
+        "RPCost": "975",
+        "Released": "8/22/2013",
+        "WinRate": "51.91"
+    },
+    "Lulu": {
+        "BanRate": "0.09",
+        "Champion": "Lulu",
+        "IPCost": "6300",
+        "Meta": "Support",
+        "Popularity": "5.33",
+        "RPCost": "975",
+        "Released": "3/20/2012",
+        "WinRate": "44.69"
+    },
+    "Lux": {
+        "BanRate": "0.49",
+        "Champion": "Lux",
+        "IPCost": "3150",
+        "Meta": "MiddleLane",
+        "Popularity": "18.13",
+        "RPCost": "790",
+        "Released": "10/19/2010",
+        "WinRate": "50.65"
+    },
+    "Malphite": {
+        "BanRate": "0.39",
+        "Champion": "Malphite",
+        "IPCost": "1350",
+        "Meta": "TopLane",
+        "Popularity": "9.09",
+        "RPCost": "585",
+        "Released": "9/2/2009",
+        "WinRate": "50.81"
+    },
+    "Malzahar": {
+        "BanRate": "0.03",
+        "Champion": "Malzahar",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "3.81",
+        "RPCost": "880",
+        "Released": "6/1/2010",
+        "WinRate": "51.58"
+    },
+    "Maokai": {
+        "BanRate": "0.06",
+        "Champion": "Maokai",
+        "IPCost": "4800",
+        "Meta": "Jungler",
+        "Popularity": "2.67",
+        "RPCost": "880",
+        "Released": "2/16/2011",
+        "WinRate": "50.98"
+    },
+    "MasterYi": {
+        "BanRate": "0.19",
+        "Champion": "MasterYi",
+        "IPCost": "450",
+        "Meta": "MiddleLane",
+        "Popularity": "9.36",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "47.87"
+    },
+    "MissFortune": {
+        "BanRate": "0.03",
+        "Champion": "MissFortune",
+        "IPCost": "3150",
+        "Meta": "ADCarry",
+        "Popularity": "7.87",
+        "RPCost": "790",
+        "Released": "9/8/2010",
+        "WinRate": "49.89"
+    },
+    "Mordekaiser": {
+        "BanRate": "0.05",
+        "Champion": "Mordekaiser",
+        "IPCost": "3150",
+        "Meta": "TopLane",
+        "Popularity": "2.64",
+        "RPCost": "790",
+        "Released": "2/24/2010",
+        "WinRate": "48.73"
+    },
+    "Morgana": {
+        "BanRate": "0.22",
+        "Champion": "Morgana",
+        "IPCost": "1350",
+        "Meta": "MiddleLane",
+        "Popularity": "9.29",
+        "RPCost": "585",
+        "Released": "2/21/2009",
+        "WinRate": "51.04"
+    },
+    "Nami": {
+        "BanRate": "0.09",
+        "Champion": "Nami",
+        "IPCost": "6300",
+        "Meta": "Support",
+        "Popularity": "8.39",
+        "RPCost": "975",
+        "Released": "12/7/2012",
+        "WinRate": "49.93"
+    },
+    "Nasus": {
+        "BanRate": "45.29",
+        "Champion": "Nasus",
+        "IPCost": "1350",
+        "Meta": "TopLane",
+        "Popularity": "21.93",
+        "RPCost": "585",
+        "Released": "10/1/2009",
+        "WinRate": "51.8"
+    },
+    "Nautilus": {
+        "BanRate": "0.12",
+        "Champion": "Nautilus",
+        "IPCost": "6300",
+        "Meta": "Jungler",
+        "Popularity": "2.98",
+        "RPCost": "975",
+        "Released": "2/14/2012",
+        "WinRate": "48.91"
+    },
+    "Nidalee": {
+        "BanRate": "23.75",
+        "Champion": "Nidalee",
+        "IPCost": "3150",
+        "Meta": "TopLane",
+        "Popularity": "16.98",
+        "RPCost": "790",
+        "Released": "12/17/2009",
+        "WinRate": "47.23"
+    },
+    "Nocturne": {
+        "BanRate": "0.46",
+        "Champion": "Nocturne",
+        "IPCost": "4800",
+        "Meta": "Jungler",
+        "Popularity": "5.58",
+        "RPCost": "880",
+        "Released": "3/15/2011",
+        "WinRate": "47.8"
+    },
+    "Nunu": {
+        "BanRate": "0.12",
+        "Champion": "Nunu",
+        "IPCost": "450",
+        "Meta": "Support",
+        "Popularity": "4.03",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "47.56"
+    },
+    "Olaf": {
+        "BanRate": "7.18",
+        "Champion": "Olaf",
+        "IPCost": "3150",
+        "Meta": "TopLane",
+        "Popularity": "7.89",
+        "RPCost": "790",
+        "Released": "6/9/2010",
+        "WinRate": "47.11"
+    },
+    "Orianna": {
+        "BanRate": "4.3",
+        "Champion": "Orianna",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "10.51",
+        "RPCost": "880",
+        "Released": "6/1/2011",
+        "WinRate": "49.93"
+    },
+    "Pantheon": {
+        "BanRate": "0.18",
+        "Champion": "Pantheon",
+        "IPCost": "3150",
+        "Meta": "TopLane",
+        "Popularity": "8.13",
+        "RPCost": "790",
+        "Released": "2/2/2010",
+        "WinRate": "48.97"
+    },
+    "Poppy": {
+        "BanRate": "0.11",
+        "Champion": "Poppy",
+        "IPCost": "450",
+        "Meta": "TopLane",
+        "Popularity": "1.51",
+        "RPCost": "260",
+        "Released": "1/13/2010",
+        "WinRate": "49.82"
+    },
+    "Quinn": {
+        "BanRate": "0.12",
+        "Champion": "Quinn",
+        "IPCost": "6300",
+        "Meta": "ADCarry",
+        "Popularity": "3.5",
+        "RPCost": "975",
+        "Released": "3/1/2013",
+        "WinRate": "49.55"
+    },
+    "Rammus": {
+        "BanRate": "2.62",
+        "Champion": "Rammus",
+        "IPCost": "3150",
+        "Meta": "Jungler",
+        "Popularity": "6.26",
+        "RPCost": "790",
+        "Released": "7/10/2009",
+        "WinRate": "56.91"
+    },
+    "Renekton": {
+        "BanRate": "10.82",
+        "Champion": "Renekton",
+        "IPCost": "4800",
+        "Meta": "TopLane",
+        "Popularity": "16.21",
+        "RPCost": "880",
+        "Released": "1/17/2011",
+        "WinRate": "49.97"
+    },
+    "Rengar": {
+        "BanRate": "6.63",
+        "Champion": "Rengar",
+        "IPCost": "6300",
+        "Meta": "Jungler",
+        "Popularity": "7.03",
+        "RPCost": "975",
+        "Released": "8/20/2012",
+        "WinRate": "47.14"
+    },
+    "Riven": {
+        "BanRate": "53.28",
+        "Champion": "Riven",
+        "IPCost": "4800",
+        "Meta": "TopLane",
+        "Popularity": "20.72",
+        "RPCost": "880",
+        "Released": "9/14/2011",
+        "WinRate": "50.94"
+    },
+    "Rumble": {
+        "BanRate": "0.12",
+        "Champion": "Rumble",
+        "IPCost": "4800",
+        "Meta": "TopLane",
+        "Popularity": "1.67",
+        "RPCost": "880",
+        "Released": "4/26/2011",
+        "WinRate": "50.5"
+    },
+    "Ryze": {
+        "BanRate": "0.09",
+        "Champion": "Ryze",
+        "IPCost": "450",
+        "Meta": "MiddleLane",
+        "Popularity": "4.15",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "46.11"
+    },
+    "Sejuani": {
+        "BanRate": "0.07",
+        "Champion": "Sejuani",
+        "IPCost": "6300",
+        "Meta": "Jungler",
+        "Popularity": "3.74",
+        "RPCost": "975",
+        "Released": "1/17/2012",
+        "WinRate": "53.04"
+    },
+    "Shaco": {
+        "BanRate": "0.61",
+        "Champion": "Shaco",
+        "IPCost": "3150",
+        "Meta": "Jungler",
+        "Popularity": "4.19",
+        "RPCost": "790",
+        "Released": "10/10/2009",
+        "WinRate": "47.27"
+    },
+    "Shen": {
+        "BanRate": "7.74",
+        "Champion": "Shen",
+        "IPCost": "3150",
+        "Meta": "TopLane",
+        "Popularity": "9.05",
+        "RPCost": "790",
+        "Released": "3/24/2010",
+        "WinRate": "47.09"
+    },
+    "Shyvana": {
+        "BanRate": "41.95",
+        "Champion": "Shyvana",
+        "IPCost": "6300",
+        "Meta": "Jungler",
+        "Popularity": "13.64",
+        "RPCost": "975",
+        "Released": "11/1/2011",
+        "WinRate": "52.37"
+    },
+    "Singed": {
+        "BanRate": "0.36",
+        "Champion": "Singed",
+        "IPCost": "1350",
+        "Meta": "TopLane",
+        "Popularity": "4.19",
+        "RPCost": "585",
+        "Released": "4/18/2009",
+        "WinRate": "50.78"
+    },
+    "Sion": {
+        "BanRate": "0.09",
+        "Champion": "Sion",
+        "IPCost": "1350",
+        "Meta": "MiddleLane",
+        "Popularity": "1.79",
+        "RPCost": "585",
+        "Released": "2/21/2009",
+        "WinRate": "46.32"
+    },
+    "Sivir": {
+        "BanRate": "5.44",
+        "Champion": "Sivir",
+        "IPCost": "450",
+        "Meta": "ADCarry",
+        "Popularity": "14.25",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "57.43"
+    },
+    "Skarner": {
+        "BanRate": "0.06",
+        "Champion": "Skarner",
+        "IPCost": "4800",
+        "Meta": "Jungler",
+        "Popularity": "1.32",
+        "RPCost": "880",
+        "Released": "8/9/2011",
+        "WinRate": "48.62"
+    },
+    "Sona": {
+        "BanRate": "0.13",
+        "Champion": "Sona",
+        "IPCost": "3150",
+        "Meta": "Support",
+        "Popularity": "14.91",
+        "RPCost": "790",
+        "Released": "9/20/2010",
+        "WinRate": "51.67"
+    },
+    "Soraka": {
+        "BanRate": "0.22",
+        "Champion": "Soraka",
+        "IPCost": "450",
+        "Meta": "Support",
+        "Popularity": "7.18",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "46.9"
+    },
+    "Swain": {
+        "BanRate": "0.19",
+        "Champion": "Swain",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "3.64",
+        "RPCost": "880",
+        "Released": "10/5/2010",
+        "WinRate": "53.21"
+    },
+    "Syndra": {
+        "BanRate": "8.32",
+        "Champion": "Syndra",
+        "IPCost": "6300",
+        "Meta": "MiddleLane",
+        "Popularity": "7.09",
+        "RPCost": "975",
+        "Released": "9/13/2012",
+        "WinRate": "47.48"
+    },
+    "Talon": {
+        "BanRate": "0.07",
+        "Champion": "Talon",
+        "IPCost": "4800",
+        "Meta": "TopLane",
+        "Popularity": "4.28",
+        "RPCost": "880",
+        "Released": "8/24/2011",
+        "WinRate": "51.42"
+    },
+    "Taric": {
+        "BanRate": "4.72",
+        "Champion": "Taric",
+        "IPCost": "1350",
+        "Meta": "Support",
+        "Popularity": "15.36",
+        "RPCost": "585",
+        "Released": "8/19/2009",
+        "WinRate": "55.74"
+    },
+    "Teemo": {
+        "BanRate": "1.14",
+        "Champion": "Teemo",
+        "IPCost": "1350",
+        "Meta": "TopLane",
+        "Popularity": "12.14",
+        "RPCost": "585",
+        "Released": "2/21/2009",
+        "WinRate": "52.86"
+    },
+    "Thresh": {
+        "BanRate": "11.46",
+        "Champion": "Thresh",
+        "IPCost": "6300",
+        "Meta": "Support",
+        "Popularity": "25.1",
+        "RPCost": "975",
+        "Released": "1/23/2013",
+        "WinRate": "52.61"
+    },
+    "Tristana": {
+        "BanRate": "0.06",
+        "Champion": "Tristana",
+        "IPCost": "1350",
+        "Meta": "ADCarry",
+        "Popularity": "10.67",
+        "RPCost": "585",
+        "Released": "2/21/2009",
+        "WinRate": "48.07"
+    },
+    "Trundle": {
+        "BanRate": "0.06",
+        "Champion": "Trundle",
+        "IPCost": "4800",
+        "Meta": "Jungler",
+        "Popularity": "1.99",
+        "RPCost": "880",
+        "Released": "12/1/2010",
+        "WinRate": "48.84"
+    },
+    "Tryndamere": {
+        "BanRate": "5.77",
+        "Champion": "Tryndamere",
+        "IPCost": "1350",
+        "Meta": "TopLane",
+        "Popularity": "9.45",
+        "RPCost": "585",
+        "Released": "5/1/2009",
+        "WinRate": "49.34"
+    },
+    "TwistedFate": {
+        "BanRate": "0.42",
+        "Champion": "TwistedFate",
+        "IPCost": "1350",
+        "Meta": "MiddleLane",
+        "Popularity": "3.36",
+        "RPCost": "585",
+        "Released": "2/21/2009",
+        "WinRate": "46.57"
+    },
+    "Twitch": {
+        "BanRate": "0.08",
+        "Champion": "Twitch",
+        "IPCost": "3150",
+        "Meta": "ADCarry",
+        "Popularity": "5.37",
+        "RPCost": "790",
+        "Released": "5/1/2009",
+        "WinRate": "49.71"
+    },
+    "Udyr": {
+        "BanRate": "0.43",
+        "Champion": "Udyr",
+        "IPCost": "1350",
+        "Meta": "Jungler",
+        "Popularity": "8.74",
+        "RPCost": "585",
+        "Released": "12/2/2009",
+        "WinRate": "49.66"
+    },
+    "Urgot": {
+        "BanRate": "0.03",
+        "Champion": "Urgot",
+        "IPCost": "3150",
+        "Meta": "ADCarry",
+        "Popularity": "0.52",
+        "RPCost": "790",
+        "Released": "8/24/2010",
+        "WinRate": "42.92"
+    },
+    "Varus": {
+        "BanRate": "0.1",
+        "Champion": "Varus",
+        "IPCost": "6300",
+        "Meta": "ADCarry",
+        "Popularity": "11.59",
+        "RPCost": "975",
+        "Released": "5/8/2012",
+        "WinRate": "50.3"
+    },
+    "Vayne": {
+        "BanRate": "10.13",
+        "Champion": "Vayne",
+        "IPCost": "4800",
+        "Meta": "ADCarry",
+        "Popularity": "23.91",
+        "RPCost": "880",
+        "Released": "5/10/2011",
+        "WinRate": "44.66"
+    },
+    "Veigar": {
+        "BanRate": "0.07",
+        "Champion": "Veigar",
+        "IPCost": "1350",
+        "Meta": "MiddleLane",
+        "Popularity": "3.32",
+        "RPCost": "585",
+        "Released": "7/24/2009",
+        "WinRate": "46.08"
+    },
+    "Vi": {
+        "BanRate": "10.98",
+        "Champion": "Vi",
+        "IPCost": "6300",
+        "Meta": "Jungler",
+        "Popularity": "14.52",
+        "RPCost": "975",
+        "Released": "12/19/2012",
+        "WinRate": "49.86"
+    },
+    "Viktor": {
+        "BanRate": "0.03",
+        "Champion": "Viktor",
+        "IPCost": "6300",
+        "Meta": "MiddleLane",
+        "Popularity": "1.38",
+        "RPCost": "975",
+        "Released": "12/29/2011",
+        "WinRate": "50.35"
+    },
+    "Vladimir": {
+        "BanRate": "0.35",
+        "Champion": "Vladimir",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "5.83",
+        "RPCost": "880",
+        "Released": "7/27/2010",
+        "WinRate": "46.6"
+    },
+    "Volibear": {
+        "BanRate": "0.08",
+        "Champion": "Volibear",
+        "IPCost": "6300",
+        "Meta": "Jungler",
+        "Popularity": "7.83",
+        "RPCost": "975",
+        "Released": "11/29/2011",
+        "WinRate": "51.54"
+    },
+    "Warwick": {
+        "BanRate": "0.05",
+        "Champion": "Warwick",
+        "IPCost": "450",
+        "Meta": "Jungler",
+        "Popularity": "8.16",
+        "RPCost": "260",
+        "Released": "2/21/2009",
+        "WinRate": "52.62"
+    },
+    "Wukong": {
+        "BanRate": "0.67",
+        "Champion": "Wukong",
+        "IPCost": "4800",
+        "Meta": "TopLane",
+        "Popularity": "6.74",
+        "RPCost": "880",
+        "Released": "7/26/2011",
+        "WinRate": "53.39"
+    },
+    "Xerath": {
+        "BanRate": "0.13",
+        "Champion": "Xerath",
+        "IPCost": "4800",
+        "Meta": "MiddleLane",
+        "Popularity": "1.26",
+        "RPCost": "880",
+        "Released": "10/5/2011",
+        "WinRate": "51.22"
+    },
+    "XinZhao": {
+        "BanRate": "0.05",
+        "Champion": "XinZhao",
+        "IPCost": "3150",
+        "Meta": "Jungler",
+        "Popularity": "10.51",
+        "RPCost": "790",
+        "Released": "7/13/2010",
+        "WinRate": "50.39"
+    },
+    "Yorick": {
+        "BanRate": "0.09",
+        "Champion": "Yorick",
+        "IPCost": "4800",
+        "Meta": "TopLane",
+        "Popularity": "2.17",
+        "RPCost": "880",
+        "Released": "6/22/2011",
+        "WinRate": "50.58"
+    },
+    "Zac": {
+        "BanRate": "0.69",
+        "Champion": "Zac",
+        "IPCost": "6300",
+        "Meta": "Jungler",
+        "Popularity": "3.86",
+        "RPCost": "975",
+        "Released": "3/29/2013",
+        "WinRate": "48.45"
+    },
+    "Zed": {
+        "BanRate": "16.85",
+        "Champion": "Zed",
+        "IPCost": "6300",
+        "Meta": "TopLane",
+        "Popularity": "10.26",
+        "RPCost": "975",
+        "Released": "11/13/2012",
+        "WinRate": "45.09"
+    },
+    "Ziggs": {
+        "BanRate": "4.12",
+        "Champion": "Ziggs",
+        "IPCost": "6300",
+        "Meta": "MiddleLane",
+        "Popularity": "7.47",
+        "RPCost": "487",
+        "Released": "2/1/2012",
+        "WinRate": "55.07"
+    },
+    "Zilean": {
+        "BanRate": "0.17",
+        "Champion": "Zilean",
+        "IPCost": "1350",
+        "Meta": "MiddleLane",
+        "Popularity": "1.51",
+        "RPCost": "585",
+        "Released": "4/18/2009",
+        "WinRate": "48.82"
+    },
+    "Zyra": {
+        "BanRate": "0.91",
+        "Champion": "Zyra",
+        "IPCost": "6300",
+        "Meta": "MiddleLane",
+        "Popularity": "7.1",
+        "RPCost": "975",
+        "Released": "7/24/2012",
+        "WinRate": "49.83"
+    }
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "DEX": "18",
+        "INT": "17",
+        "MND": "21",
+        "PIE": "19",
+        "Race": "Roegadyn",
+        "STR": "22",
+        "Subrace": "Sea-Wolves",
+        "VIT": "23"
+    },
+    {
+        "DEX": "17",
+        "INT": "20",
+        "MND": "22",
+        "PIE": "20",
+        "Race": "Roegadyn",
+        "STR": "20",
+        "Subrace": "Hellsguard",
+        "VIT": "21"
+    },
+    {
+        "DEX": "20",
+        "INT": "18",
+        "MND": "20",
+        "PIE": "17",
+        "Race": "Hyur",
+        "STR": "23",
+        "Subrace": "Highlander",
+        "VIT": "22"
+    },
+    {
+        "DEX": "19",
+        "INT": "21",
+        "MND": "18",
+        "PIE": "21",
+        "Race": "Hyur",
+        "STR": "21",
+        "Subrace": "Midlander",
+        "VIT": "20"
+    },
+    {
+        "DEX": "23",
+        "INT": "22",
+        "MND": "17",
+        "PIE": "21",
+        "Race": "Elezen",
+        "STR": "19",
+        "Subrace": "Wildwood",
+        "VIT": "18"
+    },
+    {
+        "DEX": "20",
+        "INT": "23",
+        "MND": "20",
+        "PIE": "18",
+        "Race": "Elezen",
+        "STR": "20",
+        "Subrace": "Duskwight",
+        "VIT": "19"
+    },
+    {
+        "DEX": "22",
+        "INT": "18",
+        "MND": "19",
+        "PIE": "20",
+        "Race": "MiQote",
+        "STR": "21",
+        "Subrace": "Seekers-of-the-Sun",
+        "VIT": "20"
+    },
+    {
+        "DEX": "21",
+        "INT": "19",
+        "MND": "23",
+        "PIE": "22",
+        "Race": "MiQote",
+        "STR": "18",
+        "Subrace": "Keepers-of-the-Moon",
+        "VIT": "17"
+    },
+    {
+        "DEX": "22",
+        "INT": "21",
+        "MND": "20",
+        "PIE": "21",
+        "Race": "Lalafell",
+        "STR": "18",
+        "Subrace": "Plainsfolk",
+        "VIT": "18"
+    },
+    {
+        "DEX": "20",
+        "INT": "21",
+        "MND": "22",
+        "PIE": "23",
+        "Race": "Lalafell",
+        "STR": "17",
+        "Subrace": "Dunesfolk",
+        "VIT": "17"
+    }
+]
